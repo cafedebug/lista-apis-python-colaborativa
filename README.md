@@ -14,7 +14,9 @@ Por exemplo:
 
 projetos | versão do framework
 ---- | ----
-[nome do meu projeto](link para o meu projeto) | 2.2, 5 ou 6
+[API de Livros em Python localhost](https://github.com/JessicaNathany/api-python-localhost.git) | 
+[api-postgresql](https://github.com/JessicaNathany/api-postgresql) | 
+[Proficiencia Dev](https://github.com/JessicaNathany/proficiencia-dev.git) | 
 ```
 
 ## Iniciante
@@ -39,6 +41,3 @@ projetos | Versão
 ---- | ----
 
 [nome do projeto](link do repositório) | número da versão
-
-
-
