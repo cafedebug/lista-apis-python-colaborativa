@@ -1,4 +1,4 @@
-# APIs dotnet colaborativa <img src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">" alt="python" width="40" height="40"/> </a> 
+# APIs dotnet colaborativa <img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />" alt="python" width="40" height="40"/> </a> 
 
 Este é um repositório com listas de APIs em Python colaborativa, para que outras pessoas possam usar como base de aprendizado, ter mais ideias ao criar seus projetos e compartilhar conhecimento.
 
