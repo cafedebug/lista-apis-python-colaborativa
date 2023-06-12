@@ -9,7 +9,7 @@ A lista está separa por níveis de conhecimento, não importa a versão do fram
 
 Por exemplo:
 
-```
+
 ## iniciante
 
 projetos | versão do framework
@@ -17,7 +17,7 @@ projetos | versão do framework
 [API de Livros em Python localhost](https://github.com/JessicaNathany/api-python-localhost.git) | 
 [api-postgresql](https://github.com/JessicaNathany/api-postgresql) | 
 [Proficiencia Dev](https://github.com/JessicaNathany/proficiencia-dev.git) | 
-```
+
 
 ## Iniciante
 
