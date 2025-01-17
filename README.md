@@ -37,3 +37,6 @@ projetos | Versão
 ---- | ----
 [Data Science](https://github.com/carlosfab/data_science) | 
 [Python Binance](https://github.com/sammchardy/python-binance) | 
+[Python Twitter](https://github.com/bear/python-twitter) | 
+[Análise de Dados em Python - LabHacker Câmara dos Deputados](https://github.com/rodolfoghi/curso-labhacker-analise-dados-com-python) | 
+[Como extrair dados da Bovespa](https://github.com/rodrigobercini/como-extrair-dados-bovespa)
