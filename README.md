@@ -17,6 +17,7 @@ projetos | versão do framework
 [API de Livros em Python localhost](https://github.com/JessicaNathany/api-python-localhost.git) | 
 [api-postgresql](https://github.com/JessicaNathany/api-postgresql) | 
 [Proficiencia Dev](https://github.com/JessicaNathany/proficiencia-dev.git) | 
+[Estrutura de Dados](https://github.com/JessicaNathany/estrutura-dados) | 
 
 
 ## Iniciante
