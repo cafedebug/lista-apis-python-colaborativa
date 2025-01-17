@@ -18,13 +18,8 @@ projetos | versão do framework
 [api-postgresql](https://github.com/JessicaNathany/api-postgresql) | 
 [Proficiencia Dev](https://github.com/JessicaNathany/proficiencia-dev.git) | 
 [Estrutura de Dados](https://github.com/JessicaNathany/estrutura-dados) | 
-
-
-## Iniciante
-
-projetos | Versão
----- | ----
-[nome do projeto](link do repositório) | número da versão
+[Exercicios Python](https://github.com/rmveiga/exercicios_python)
+[Lista de projetos em Python](https://github.com/Carlos-CGS/ProjetosPython) |
 
 
 
@@ -33,7 +28,8 @@ projetos | Versão
 projetos | Versão
 ---- | ----
 
-[nome do projeto](link do repositório) | número da versão
+[Padrões de Projeto em Python](https://github.com/kelvins/design-patterns-python) | 
+[Visão Computacional](https://github.com/chiarorosa/visao-computacional)
 
 
 ## Avançado
@@ -41,4 +37,5 @@ projetos | Versão
 projetos | Versão
 ---- | ----
 
-[nome do projeto](link do repositório) | número da versão
+[Data Science](https://github.com/carlosfab/data_science) | 
+[Python Binance](https://github.com/sammchardy/python-binance) | 
