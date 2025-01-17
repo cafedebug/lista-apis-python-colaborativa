@@ -27,7 +27,6 @@ projetos | versão do framework
 
 projetos | Versão
 ---- | ----
-
 [Padrões de Projeto em Python](https://github.com/kelvins/design-patterns-python) | 
 [Visão Computacional](https://github.com/chiarorosa/visao-computacional) |
 
@@ -36,6 +35,5 @@ projetos | Versão
 
 projetos | Versão
 ---- | ----
-
 [Data Science](https://github.com/carlosfab/data_science) | 
 [Python Binance](https://github.com/sammchardy/python-binance) | 
