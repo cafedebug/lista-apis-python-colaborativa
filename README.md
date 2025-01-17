@@ -29,7 +29,7 @@ projetos | Versão
 ---- | ----
 
 [Padrões de Projeto em Python](https://github.com/kelvins/design-patterns-python) | 
-[Visão Computacional](https://github.com/chiarorosa/visao-computacional)
+[Visão Computacional](https://github.com/chiarorosa/visao-computacional) |
 
 
 ## Avançado
